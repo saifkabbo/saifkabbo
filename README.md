@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning Google IT Suppor Professional
 - 💞️ I’m looking to collaborate on new learner
-- 📫 How to reach me...Here is my LinkedIn:https://www.linkedin.com/in/abu-saif-661525261/
+- 📫 How to reach me...Here is my LinkedIn:https://www.linkedin.com/in/saifkabbow
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
