@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifkabbo&label=Profile%20views&color=0e75b6&style=flat" alt="saifkabbo" /> </p>
 
+Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for programming, cybersecurity, and content creation. Currently, I'm pursuing a BSc in Mathematics while honing my skills in Python and exploring the fascinating world of cybersecurity through the CS50 Harvard Cybersecurity course.
+
 - 🔭 *I’m currently working on* **PlantAIHealthAnalysis**
 
 - 🌱 **I’m currently learning:**
-- *Cybersecurity: I'm diving into cybersecurity through the CS50 Harvard Cybersecurity course, exploring topics like network security, cryptography, and risk management.
-- *Python: I'm enhancing my Python skills, focusing on advanced topics and real-world applications, and pursuing Google Professional Certificates, including the IT Support Professional Certificate.
-- *Mathematics: As part of my BSc in Mathematics, I'm studying Bsc in Mathematics [courses like algebra, calculus, statistics, etc.] and applying mathematical concepts in tech-related projects.
+- *Cybersecurity: I'm diving into cybersecurity through the CS50 Harvard Cybersecurity course, exploring topics like network security, cryptography, and risk management.*
+- *Python: I'm enhancing my Python skills, focusing on advanced topics and real-world applications, and pursuing Google Professional Certificates, including the IT Support Professional Certificate.*
+- *Mathematics: As part of my BSc in Mathematics, I'm studying Bsc in Mathematics [courses like algebra, calculus, statistics, etc.] and applying mathematical concepts in tech-related projects.*
 - *Content Creation: I'm learning about content creation, video editing, and social media strategies to grow my YouTube channel, <a href="https://www.youtube.com/channel/UC5XR1w1ojp08Ino6Gd-1r5w" target="_blank">
     Visit My YouTube Channel: CosmicCode
-</a>
+</a>*
 
 .
 
