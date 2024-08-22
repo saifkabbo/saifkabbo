@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifkabbo&label=Profile%20views&color=0e75b6&style=flat" alt="saifkabbo" /> </p>
 
-- 🔭 *I’m currently working on* **PlantAIHelthAnalysis**
+- 🔭 *I’m currently working on* **PlantAIHealthAnalysis**
 
 - 🌱 **I’m currently learning:**
 - *Cybersecurity: I'm diving into cybersecurity through the CS50 Harvard Cybersecurity course, exploring topics like network security, cryptography, and risk management.
