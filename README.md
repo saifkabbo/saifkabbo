@@ -9,7 +9,11 @@
 - Cybersecurity: I'm diving into cybersecurity through the CS50 Harvard Cybersecurity course, exploring topics like network security, cryptography, and risk management.
 - Python: I'm enhancing my Python skills, focusing on advanced topics and real-world applications, and pursuing Google Professional Certificates, including the IT Support Professional Certificate.
 - Mathematics: As part of my BSc in Mathematics, I'm studying Bsc in Mathematics [courses like algebra, calculus, statistics, etc.] and applying mathematical concepts in tech-related projects.
-- Content Creation: I'm learning about content creation, video editing, and social media strategies to grow my YouTube channel, CosmicCode.**
+- Content Creation: I'm learning about content creation, video editing, and social media strategies to grow my YouTube channel, <a href="https://www.youtube.com/channel/UC8ZQUcEY8QpLrRjURP2dyWg" target="_blank">
+    <img src="https://www.iconfinder.com/icons/317714/play_social_video_youtube_icon" alt="YouTube Logo" style="width:50px; height:50px; vertical-align:middle;">
+    <span style="font-size:18px; margin-left:10px;">Visit My YouTube Channel: CosmicCode</span>
+</a>
+.
 
 - 👯 **I’m looking to collaborate on:**
 - Open Source Projects: I'm passionate about contributing to open-source projects related to web development, data science, python etc..
