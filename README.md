@@ -5,30 +5,30 @@
 
 - 🔭 I’m currently working on **PlantAIHelthAnalysis**
 
-- 🌱 **I’m currently learning**
+- 🌱 **I’m currently learning:**
 - Cybersecurity: I'm diving into cybersecurity through the CS50 Harvard Cybersecurity course, exploring topics like network security, cryptography, and risk management.
 - Python: I'm enhancing my Python skills, focusing on advanced topics and real-world applications, and pursuing Google Professional Certificates, including the IT Support Professional Certificate.
 - Mathematics: As part of my BSc in Mathematics, I'm studying Bsc in Mathematics [courses like algebra, calculus, statistics, etc.] and applying mathematical concepts in tech-related projects.
 - Content Creation: I'm learning about content creation, video editing, and social media strategies to grow my YouTube channel, CosmicCode.**
 
-- 👯 **I’m looking to collaborate on**
+- 👯 **I’m looking to collaborate on:**
 - Open Source Projects: I'm passionate about contributing to open-source projects related to web development, data science, python etc..
 - Python Development: I'm interested in collaborating on Python projects, especially those involving automation, machine learning, etc..
 - Tech Reviews and Tutorials: If you have a tech product or tool you'd like reviewed, or if you're working on educational content, I'd love to collaborate on creating tutorials or reviews.**
 
-- 🤝 **I’m looking for help with**
+- 🤝 **I’m looking for help with:**
 - Open Source Contributions: I'm looking for guidance or mentorship on how to effectively contribute to open-source projects, particularly in technologies or areas.
 - Advanced Python Projects: If you have expertise in areas like machine learning, data analysis, etc., I'd appreciate your insights or collaboration on complex Python projects.
 - YouTube Channel Growth: I'm seeking advice or collaboration to grow my YouTube channel, CosmicCode, focusing on areas like tech reviews, coding tutorials, etc.
 - Cybersecurity Best Practices: As I'm learning more about cybersecurity, I'd love to connect with experts who can share knowledge or resources.**
 
-- 💬 **Ask me about**
+- 💬 **Ask me about?**
 - Python Programming: From basic concepts to advanced techniques, I can help with questions related to Python coding, problem-solving, and best practices.
 - Cybersecurity Tips: I'm passionate about cybersecurity and can provide insights into protecting your digital presence.
 - Mathematics: Need help with math concepts? I'm pursuing a BSc in Mathematics and can assist with topics like algebra, calculus, or statistics.
 - Content Creation: If you're interested in starting a YouTube channel or creating tech content, feel free to ask me about my journey with CosmicCode.**
 
-- 📫 **How to reach me**
+- 📫 **How to reach me:**
 - Email: saifkabbow@gmail.com – Feel free to reach out to me for collaborations, questions, or just to connect!
 - LinkedIn: https://www.linkedin.com/in/saifkabbow/ – Let's connect professionally and discuss tech, cybersecurity, or other interests.
 - GitHub:https://github.com/saifkabbo – You can also reach me through GitHub for project-related inquiries or contributions.**
