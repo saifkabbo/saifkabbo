@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Saif 😁</h1>
-<h3 align="center">A passionate Python developer from Bangladesh.</h3>
+<h3 align="center">A passionate Full Stack developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifkabbo&label=Profile%20views&color=0e75b6&style=flat" alt="saifkabbo" /> </p>
 
@@ -34,7 +34,7 @@ Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for pr
 - *Content Creation: If you're interested in starting a YouTube channel or creating tech content, feel free to ask me about my journey with CosmicCode.*
 
 - 📫 **How to reach me:**
-- *Email: saifkabbow@gmail.com – Feel free to reach out to me for collaborations, questions, or just to connect!*
+- *Email: salsablsaif@gmail.com – Feel free to reach out to me for collaborations, questions, or just to connect!*
 - *LinkedIn: https://www.linkedin.com/in/saifkabbow/ – Let's connect professionally and discuss tech, cybersecurity, or other interests.*
 - *GitHub:https://github.com/saifkabbo – You can also reach me through GitHub for project-related inquiries or contributions.*
 
