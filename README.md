@@ -1,18 +1,16 @@
 <h1 align="center">Hi there 👋, I'm Saif 😁</h1>
-<h3 align="center">A passionate Full Stack developer from Bangladesh.</h3>
+<h3 align="center">A passionate Quant Trader from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifkabbo&label=Profile%20views&color=0e75b6&style=flat" alt="saifkabbo" /> </p>
 
 Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for programming, cybersecurity, and content creation. Currently, I'm pursuing a BSc in Mathematics while honing my skills in Python and exploring the fascinating world of cybersecurity through the CS50 Harvard Cybersecurity course.
 
-- 🔭 *I’m currently working on* **PlantAIHealthAnalysis**
+- 🔭 *I’m completed this project* **PlantAIHealthAnalysis**
 
 - 🌱 **I’m currently learning:**
 - *Cybersecurity: I'm diving into cybersecurity through the CS50 Harvard Cybersecurity course, exploring topics like network security, cryptography, and risk management.*
 - *Python: I'm enhancing my Python skills, focusing on advanced topics and real-world applications, and pursuing Google Professional Certificates, including the IT Support Professional Certificate.*
-- *Mathematics: As part of my BSc in Mathematics, I'm studying Bsc in Mathematics [courses like algebra, calculus, statistics, etc.] and applying mathematical concepts in tech-related projects.*
-- *Content Creation: I'm learning about content creation, video editing, and social media strategies
-</a>*
+- *Mathematics: As part of my BSc in Mathematics, I'm studying BSc in Mathematics [courses like linear algebra, calculus, statistics, probability, real analysis etc.] and applying mathematical concepts in tech-related projects.*
 
 .
 
@@ -29,22 +27,18 @@ Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for pr
 
 - 💬 **Ask me about?**
 - *Python Programming: From basic concepts to advanced techniques, I can help with questions related to Python coding, problem-solving, and best practices*.
-- *Cybersecurity Tips: I'm passionate about cybersecurity and can provide insights into protecting your digital presence.*
 - *Mathematics: Need help with math concepts? I'm pursuing a BSc in Mathematics and can assist with topics like algebra, calculus, or statistics.*
-- *Content Creation: If you're interested in starting a YouTube channel or creating tech content, feel free to ask me about my journey with CosmicCode.*
 
 - 📫 **How to reach me:**
 - *Email: salsablsaif@gmail.com – Feel free to reach out to me for collaborations, questions, or just to connect!*
 - *LinkedIn: https://www.linkedin.com/in/saifkabbow/ – Let's connect professionally and discuss tech, cybersecurity, or other interests.*
 - *GitHub:https://github.com/saifkabbo – You can also reach me through GitHub for project-related inquiries or contributions.*
 
-- ⚡ Fun fact **:)** **I think I am funny.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saifkabbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifkabbo" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/saifkabbo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifkabbo" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/saifkabbow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saifkabbow" height="30" width="40" /></a>
-<a href="https://discord.gg/@kabbow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@kabbow" height="30" width="40" /></a>
+<!-- <a href="https://discord.gg/@kabbow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@kabbow" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
