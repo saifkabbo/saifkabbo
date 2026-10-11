@@ -22,8 +22,6 @@ Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for pr
 - 🤝 **I’m looking for help with:**
 - *Open Source Contributions: I'm looking for guidance or mentorship on how to effectively contribute to open-source projects, particularly in technologies or areas.*
 - *Advanced Python Projects: If you have expertise in areas like machine learning, data analysis, etc., I'd appreciate your insights or collaboration on complex Python projects.*
-- *YouTube Channel Growth: I'm seeking advice or collaboration to grow my YouTube channel, CosmicCode, focusing on areas like tech reviews, coding tutorials, etc.*
-- *Cybersecurity Best Practices: As I'm learning more about cybersecurity, I'd love to connect with experts who can share knowledge or resources.*
 
 - 💬 **Ask me about?**
 - *Python Programming: From basic concepts to advanced techniques, I can help with questions related to Python coding, problem-solving, and best practices*.
