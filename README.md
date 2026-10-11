@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Saif 😁</h1>
 <h3 align="center">A passionate Quant Trader from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifkabbo&label=Profile%20views&color=0e75b6&style=flat" alt="saifkabbo" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifkabbo&label=Profile%20views&color=0e75b6&style=flat" alt="saifkabbo" /> </p> -->
 
 Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for programming, cybersecurity, and content creation. Currently, I'm pursuing a BSc in Mathematics while honing my skills in Python and exploring the fascinating world of cybersecurity through the CS50 Harvard Cybersecurity course.
 
