@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Saif 😁</h1>
-<h3 align="center">A passionate Quant Trader from Bangladesh.</h3>
+<h3 align="center">A passionate programmer.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifkabbo&label=Profile%20views&color=0e75b6&style=flat" alt="saifkabbo" /> </p> -->
 
@@ -11,8 +11,6 @@ Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for pr
 - *Cybersecurity: I'm diving into cybersecurity through the CS50 Harvard Cybersecurity course, exploring topics like network security, cryptography, and risk management.*
 - *Python: I'm enhancing my Python skills, focusing on advanced topics and real-world applications, and pursuing Google Professional Certificates, including the IT Support Professional Certificate.*
 - *Mathematics: As part of my BSc in Mathematics, I'm studying BSc in Mathematics [courses like linear algebra, calculus, statistics, probability, real analysis etc.] and applying mathematical concepts in tech-related projects.*
-
-.
 
 - 👯 **I’m looking to collaborate on:**
 - *Open Source Projects: I'm passionate about contributing to open-source projects related to web development, data science, python etc..*
