@@ -3,19 +3,18 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifkabbo&label=Profile%20views&color=0e75b6&style=flat" alt="saifkabbo" /> </p> -->
 
-Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for programming, cybersecurity, and content creation. Currently, I'm pursuing a BSc in Mathematics while honing my skills in Python and exploring the fascinating world of cybersecurity through the CS50 Harvard Cybersecurity course.
+Hi, I'm Saif! I'm a tech enthusiast and a lifelong learner with a passion for programming, cybersecurity, and content creation. Currently, I'm pursuing a BSc in Mathematics while honing my skills in Python and exploring the fascinating world of cybersecurity.
 
 - 🔭 *I’m completed this project* **PlantAIHealthAnalysis**
 
 - 🌱 **I’m currently learning:**
-- *Cybersecurity: I'm diving into cybersecurity through the CS50 Harvard Cybersecurity course, exploring topics like network security, cryptography, and risk management.*
-- *Python: I'm enhancing my Python skills, focusing on advanced topics and real-world applications, and pursuing Google Professional Certificates, including the IT Support Professional Certificate.*
+- *Cybersecurity: I'm diving into cybersecurity, exploring topics like network security, cryptography, and risk management.*
+- *Python: I'm enhancing my Python skills, focusing on advanced topics and real-world applications*
 - *Mathematics: As part of my BSc in Mathematics, I'm studying BSc in Mathematics [courses like linear algebra, calculus, statistics, probability, real analysis etc.] and applying mathematical concepts in tech-related projects.*
 
 - 👯 **I’m looking to collaborate on:**
-- *Open Source Projects: I'm passionate about contributing to open-source projects related to web development, data science, python etc..*
+- *Open Source Projects: I'm passionate about contributing to open-source projects related to web development, data science, AI/ML etc..*
 - *Python Development: I'm interested in collaborating on Python projects, especially those involving automation, machine learning, etc..*
-- *Tech Reviews and Tutorials: If you have a tech product or tool you'd like reviewed, or if you're working on educational content, I'd love to collaborate on creating tutorials or reviews.*
 
 - 🤝 **I’m looking for help with:**
 - *Open Source Contributions: I'm looking for guidance or mentorship on how to effectively contribute to open-source projects, particularly in technologies or areas.*
